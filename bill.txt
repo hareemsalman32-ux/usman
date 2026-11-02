@@ -1,0 +1,61 @@
+1. Sr #	2. Object Code	3. Object Classification	4. Name of Company	5. Item Description	6. QtyRecRecvbl	7. RatePKR	8. Gross Amount	9. Income Tax	10. Sales Tax	11. LD	12. PST	13. Shelflife	14. Risk Purch.	15. MiscStamp	16. Net Payable	17. DC No & Date	18. Invoice No & Date	19. Bill Status	20. Taxes Paid?	21. PSID No.
+1	A03927	General Procurement	M/s Premier Pharmaceuticals (Pvt) Ltd	Rocephin 1g Injectable Vials	3,000	Rs. 450	Rs. 2,450,000	Rs. 110,250	Rs. 441,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 6,125	Rs. 1,877,625	
+CHL-PREM-4491
+2026-08-06
+INV-PREM-2026/8812
+2026-08-06
+Cheques Issued	Pending	PSID-99281910
+2	A03901	General Procurement	M/s National Stationers & Paper Mart (XYZ Company)	Signature Grip Ballpoint Pens 0.8mm Blue	10,000	Rs. 10	Rs. 100,000	Rs. 4,500	Rs. 18,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 1,000	Rs. 76,500	
+CHL-NAT-5512
+2026-08-09
+INV-NAT-2026/1094
+2026-08-09
+Cheques Issued	Pending	PSID-99281190
+3	A03927	General Procurement	M/s BioMed Diagnostic (Pvt) Ltd	A4 Photocopy Paper 80gsm (Double A / PaperOne)	100	Rs. 1,200	Rs. 5,000,000	Rs. 225,000	Rs. 900,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 12,500	Rs. 3,837,500	
+CHL-BM-4011
+2026-08-20
+INV-BM-2026/901
+2026-08-20
+Cheques Issued	Pending	PSID-99281221
+4	A03927	General Procurement	M/s BioMed Diagnostic (Pvt) Ltd	Medical & Office Supplies	10,000	Rs. 450	Rs. 4,500,000	Rs. 202,500	Rs. 810,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 11,250	Rs. 3,451,250	
+CHL-BM-4012
+2026-08-21
+INV-BM-2026/902
+2026-08-21
+Cheques Issued	Pending	PSID-99281861
+5	A03927	General Procurement	M/s Premier Pharmaceuticals (Pvt) Ltd	Medical & Office Supplies	10,000	Rs. 840	Rs. 8,400,000	Rs. 378,000	Rs. 202,585	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 14,392	Rs. 7,805,023	
+CHL-PREM-5520
+2026-08-22
+INV-PREM-2026/9104
+2026-08-22
+Cheques Issued	Pending	PSID-99281411
+6	A03901	General Procurement	M/s National Stationers & Paper Mart (XYZ Company)	Medical & Office Supplies	10,000	Rs. 65	Rs. 650,000	Rs. 29,250	Rs. 117,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 1,625	Rs. 502,125	
+CHL-NAT-6601
+2026-08-23
+INV-NAT-2026/2205
+2026-08-23
+Cheques Issued	Pending	PSID-99281917
+7	A03970	General Procurement	M/s Al-Rehman General Order Supplies	Medical & Office Supplies	10,000	Rs. 144	Rs. 1,438,000	Rs. 64,710	Rs. 258,840	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 3,595	Rs. 1,110,855	
+CHL-ALR-1002
+2026-08-24
+INV-ALR-2026/410
+2026-08-24
+Cheques Issued	Pending	PSID-99281875
+8	A03301	General Procurement	LESCO (Lahore Electric Supply Company Ltd)	Medical & Office Supplies	10,000	Rs. 385	Rs. 3,845,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 3,845,000	
+NON-STORE-UTILITY
+2026-08-25
+LESCO-CONSOL-AUG26/9981
+2026-08-25
+Cheques Issued	Pending	PSID-99281505
+9	A03302	General Procurement	SNGPL (Sui Northern Gas Pipelines Limited)	Medical & Office Supplies	10,000	Rs. 49	Rs. 485,000	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 485,000	
+NON-STORE-UTILITY
+2026-08-26
+SNGPL-AUG26/4482
+2026-08-26
+Cheques Issued	Pending	PSID-99281868
+10	A03807	General Procurement	Pakistan State Oil (PSO Fleet Cards / Bulk Station)	Medical & Office Supplies	10,000	Rs. 85	Rs. 850,000	Rs. 38,250	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 0	Rs. 2,125	Rs. 809,625	
+NON-STORE-UTILITY
+2026-08-27
+PSO-FLEET-AUG26/1092
+2026-08-27
+Cheques Issued	Pending	PSID-99281399
